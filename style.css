@@ -1,0 +1,76 @@
+*{ 
+    background-color:gray;
+}
+#firstDiv{
+    font-size:small;
+    color: red;
+    font-style: italic ;
+}
+#one{
+    border: 1px solid black  ;
+    font-style: italic;
+    width: 100px;
+}
+#two{
+    border: 1px solid black;
+    font-style: italic;
+    width: 100px;
+}
+#three{
+    border: 1px solid black;
+    font-style: italic;
+    width: 111px;
+}
+#four{
+    border: 1px solid black;
+    font-style: italic;
+}
+#five{
+    border: 1px solid black;
+    font-style: italic;
+    width: 111px;
+}
+#six{
+    border: 1px solid black;
+    font-style: italic;
+}
+#seven{
+    border: 1px solid black;
+    font-style: italic;
+}
+#eight{
+    border: 1px solid black;
+    font-style: italic;
+}
+#nine{
+    border: 1px solid black;
+    font-style: italic;
+    width: 111px;
+}
+#ten{
+    border: 1px solid black;
+    font-style: italic;
+}
+#eleven{
+    border: 1px solid black;
+    font-style: italic;
+}
+#twelve{
+    border: 1px solid black;
+    font-style: italic;
+}
+#erti{
+    border: 1px solid rgb(0, 0, 145);
+}
+#ori{
+    color:rgb(143, 0, 95);
+}
+#sami{
+    color: rgb(143, 0, 95);
+}
+#otxi{
+    color: rgb(145, 0, 96);
+}
+#xuti{
+    color: rgb(143, 0, 95);
+}
